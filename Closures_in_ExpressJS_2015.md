@@ -33,7 +33,7 @@ app.get('/example/b', function (req, res, next) {
 >	next();
 >}
 >
->2. function (req, res) {
+>3. function (req, res) {
 >	res.send('Hello from B!');
 >}
 
