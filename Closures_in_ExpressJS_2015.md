@@ -2,9 +2,9 @@
 
 ## Предисловие
 
-- Автор: Connor Turland(@Connoropolous).
-- Оригинал: http://blog.bithound.io/using-closure-to-write-express-middleware/.
-- Перевод: Sasha Zmiivets
+- Автор: Connor Turland
+- Оригинал: http://blog.bithound.io/using-closure-to-write-express-middleware/
+- Перевод: Sasha Zmiivets @goruny4
 
 Перевод вольный, а это значит что автор перевода вносит небольшие корректировки в текст материала для более удобного восприятия читателем.
 
