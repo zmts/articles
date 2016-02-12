@@ -4,7 +4,7 @@
 
 - Автор: Connor Turland
 - Оригинал: http://blog.bithound.io/using-closure-to-write-express-middleware/
-- Перевод: Sasha Zmiivets @goruny4
+- Перевод: Sasha Zmiivets
 
 Перевод вольный, а это значит что автор перевода вносит небольшие корректировки в текст материала для более удобного восприятия читателем.
 
