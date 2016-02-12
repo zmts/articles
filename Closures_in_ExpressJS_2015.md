@@ -2,15 +2,20 @@
 
 ## Предисловие
 
->Автор: Connor Turland(@Connoropolous)
->Оригинал: http://blog.bithound.io/using-closure-to-write-express-middleware/
->Перевод: Sasha Zmiivets(@zandr_dewhite)
 
->Перевод вольный, а это значит что автор перевода вносит небольшие корректировки в текст материала для более удобного восприятия читателем.
+Автор: Connor Turland(@Connoropolous)
 
->Термины:
->middleware - промежуточный обработчик - мидлварь.
->closures - замыкания - кложуры.
+Оригинал: http://blog.bithound.io/using-closure-to-write-express-middleware/
+
+Перевод: Sasha Zmiivets(@zandr_dewhite)
+
+Перевод вольный, а это значит что автор перевода вносит небольшие корректировки в текст материала для более удобного восприятия читателем.
+
+Термины:
+
+middleware - промежуточный обработчик - мидлварь.
+
+closures - замыкания - кложуры.
 
 ## Начало
 
