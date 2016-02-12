@@ -131,7 +131,7 @@ app.get('/example/b', auth('Francis'), function (req, res) {
 
 Мысли и ошибки в issues или личку в соц. сетях.
 
->Присеединится к нашему чатику в гиттере
+>Присоединяйтесь к нашему чатику в гиттере
 
 >https://gitter.im/dev-garage/main
 
