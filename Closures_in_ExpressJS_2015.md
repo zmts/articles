@@ -132,7 +132,7 @@ app.get('/example/b', auth('Francis'), function (req, res) {
 
 Мысли и ошибки в issues или личку в соц. сетях.
 
->Присоединяйтесь к нашему чатику в гиттере
+>Для желающих пообщаться, присоединяйтесь к нашему чатику
 
 >https://gitter.im/dev-garage/main
 
