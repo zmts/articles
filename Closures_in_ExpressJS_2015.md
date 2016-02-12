@@ -112,7 +112,7 @@ function auth(name) {
 		else if (req.isAuthenticated() && !name) next();
 		else res.send(401);
 	};
-}
+};
 
 app.get('/example/a', auth(), function (req, res) {  
 	res.send('Hello from A!');
