@@ -305,6 +305,6 @@ $tab-color: $grey;
 ## p.s.
 - [fb.com/zandr.dewhite](https://fb.com/zandr.dewhite)
 - [github.com/zmts](https://github.com/zmts)
-- [gitter.com/dev-garage/main](https://gitter.com/dev-garage/main)
+- [gitter.com/dev-garage/main](http://gitter.com/dev-garage/main)
 
 Good Luck !!!
