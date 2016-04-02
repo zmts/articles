@@ -303,8 +303,8 @@ $tab-color: $grey;
 Написание бесконечно длинного списка переменных без осмысленного использования или набора ф-ций которые трудно понять кому либо кроме автора, не есть хорошая идея и не принесет никакой помощи в разработке и написании DRY кода.
 
 ## p.s.
-- [fb.com/zandr.dewhite](fb.com/zandr.dewhite)
-- [github.com/zmts](github.com/zmts)
-- [gitter.com/dev-garage/main](gitter.com/dev-garage/main)
+- [fb.com/zandr.dewhite](https://fb.com/zandr.dewhite)
+- [github.com/zmts](https://github.com/zmts)
+- [gitter.com/dev-garage/main](https://gitter.com/dev-garage/main)
 
 Good Luck !!!
